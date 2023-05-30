@@ -1,0 +1,13 @@
+Server:		172.31.0.2
+Address:	172.31.0.2#53
+
+Non-authoritative answer:
+Name:	www.guvi.in
+Address: 104.21.95.95
+Name:	www.guvi.in
+Address: 172.67.144.22
+Name:	www.guvi.in
+Address: 2606:4700:3034::6815:5f5f
+Name:	www.guvi.in
+Address: 2606:4700:3030::ac43:9016
+

@@ -1,0 +1,9 @@
+hello Guvi
+
+
+
+
+total 4
+drwx------. 4 ec2-user ec2-user 86 May 30 09:50 ..
+drwxr-xr-x. 2 ec2-user ec2-user 23 May 30 09:51 .
+-rwxr-xr-x. 1 ec2-user ec2-user 15 May 30 09:52 file1.txt
